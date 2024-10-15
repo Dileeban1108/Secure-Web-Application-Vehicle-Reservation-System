@@ -42,7 +42,7 @@
 
     <footer>
         <div class="content">
-            2023 Copyright | VSR
+            2024 Copyright
         </div>
     </footer>
 </body>
