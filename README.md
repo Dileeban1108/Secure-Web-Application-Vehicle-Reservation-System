@@ -10,8 +10,6 @@
 - [About The Project](#about-the-project)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## About The Project
 
