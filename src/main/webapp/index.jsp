@@ -16,7 +16,6 @@
                 <div class="brand-logo">
                     MyLogo
                 </div>
-
                 <div class="nav-items">
                     <div class="profile-icon">
                         <img src="/assets/images/user.png" alt="user-icon" width="20px" height="20px">
