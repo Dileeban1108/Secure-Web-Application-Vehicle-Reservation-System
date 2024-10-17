@@ -14,7 +14,7 @@
         <nav>
             <div class="container">
                 <div class="brand-logo">
-                    VSR
+                    MyLogo
                 </div>
 
                 <div class="nav-items">

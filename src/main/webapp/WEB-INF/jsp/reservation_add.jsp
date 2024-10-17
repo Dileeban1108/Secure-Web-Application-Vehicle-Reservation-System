@@ -13,7 +13,7 @@
     <nav>
         <div class="container">
             <div class="brand-logo">
-                VSR
+                MyLogo
             </div>
 
             <div class="nav-items">
@@ -88,7 +88,7 @@
 
     <footer>
         <div class="content">
-            2023 Copyright
+            2024 Copyright
         </div>
     </footer>
 
